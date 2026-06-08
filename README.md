@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Verma</h1>
 <p align="center">
-  <strong>Data Science Undergraduate at IIT Roorkee | AI & Machine Learning Enthusiast</strong>
+  <strong>Data Science enthusiast Undergrad at IIT Roorkee | AI & Machine Learning Enthusiast</strong>
 </p>
 
 <p align="center">
