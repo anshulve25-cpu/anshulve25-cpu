@@ -11,7 +11,6 @@
 
 * 🔭 **I’m currently working on:** Sequence pattern recognition models and AI-driven matching applications[cite: 1].
 * 🤝 **I’m looking to collaborate on:** Open-source Machine Learning and Data Science tools[cite: 1].
-* 🧠 **Problem Solving:** Codeforces Specialist (1300) | 400+ LeetCode problems solved[cite: 1].
 * 💬 **Ask me about:** Python, C++, SQL, PyTorch, FastAPI, and Power BI[cite: 1].
 
 ---
