@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anshul Verma</h1>
 <p align="center">
-  <strong>Data Science Undergraduate at IIT Roorkee | AI & Machine Learning Enthusiast[cite: 1]</strong>
+  <strong>Data Science Undergraduate at IIT Roorkee | AI & Machine Learning Enthusiast</strong>
 </p>
 
 <p align="center">
-  Building end-to-end data pipelines, predictive models, and deep learning systems[cite: 1] 🚀
+  Building end-to-end data pipelines, predictive models, and deep learning systems 🚀
 </p>
 
 <br/>
 
-* 🔭 **I’m currently working on:** Sequence pattern recognition models and AI-driven matching applications[cite: 1].
-* 🤝 **I’m looking to collaborate on:** Open-source Machine Learning and Data Science tools[cite: 1].
-* 💬 **Ask me about:** Python, C++, SQL, PyTorch, FastAPI, and Power BI[cite: 1].
+* 🔭 **I’m currently working on:** Sequence pattern recognition models and AI-driven matching applications.
+* 🤝 **I’m looking to collaborate on:** Open-source Machine Learning and Data Science tools.
+* 💬 **Ask me about:** Python, C++, SQL, PyTorch, FastAPI, and Power BI.
 
 ---
 
