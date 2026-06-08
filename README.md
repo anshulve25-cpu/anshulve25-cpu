@@ -23,10 +23,10 @@
 ---
 
 ### 🛠️ Core Skills & Ecosystem
-* **Languages & Core CS:** Python, C++, SQL | Data Structures, Algorithms, OOP[cite: 1].
-* **Machine Learning & AI:** Supervised/Unsupervised Learning, CNN, BiLSTM, CRNN, Computer Vision, LLMs, LangChain, NLP[cite: 1].
-* **Data Science & BI:** EDA, Cleaning, Wrangling, Statistical Analysis, A/B Testing | Power BI, Tableau, Excel, Streamlit, Plotly[cite: 1].
-* **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, OpenCV, Git, FastAPI, React, REST APIs[cite: 1].
+* **Languages & Core CS:** Python, C++, SQL | Data Structures, Algorithms, OOP.
+* **Machine Learning & AI:** Supervised/Unsupervised Learning, CNN, BiLSTM, CRNN, Computer Vision, LLMs, LangChain, NLP.
+* **Data Science & BI:** EDA, Cleaning, Wrangling, Statistical Analysis, A/B Testing | Power BI, Tableau, Excel, Streamlit, Plotly.
+* **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, PyTorch, Matplotlib, Seaborn, OpenCV, Git, FastAPI, React, REST APIs.
 
 ---
 
