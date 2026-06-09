@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshul Verma</h1>
+<h2 align="center">Hi 👋, I'm Anshul Verma</h2>
 <p align="center">
   <strong>Data Science enthusiast Undergrad at IIT Roorkee | AI & Machine Learning Enthusiast</strong>
 </p>
