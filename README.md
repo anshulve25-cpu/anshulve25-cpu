@@ -16,8 +16,9 @@
 ---
 
 ### 🕹️ My Contribution Grid... but it's Snake
-<p align="left">
-  <img src="https://raw.githubusercontent.com/anshulve25-cpu/anshulve25-cpu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshulve25-cpu/anshulve25-cpu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
